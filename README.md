@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saiswarupa706
-- 👀 I’m interested in learning and exploring new things
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning FullStack Development.
+- 💞️ I’m looking to collaborate on Webdevelopment Projects.
 - 📫 How to reach me githublink:github.com/saiswarupa706
 
 <!---
